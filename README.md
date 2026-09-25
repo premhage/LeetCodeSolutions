@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/premhage/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -208,8 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
