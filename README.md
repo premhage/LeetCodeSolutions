@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/premhage/LeetCodeSolutions/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
