@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premhage/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/premhage/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
