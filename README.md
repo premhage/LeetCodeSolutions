@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/premhage/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premhage/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/premhage/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 ## String
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/premhage/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/premhage/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/premhage/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/premhage/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/premhage/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/premhage/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/premhage/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
