@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/premhage/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/premhage/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premhage/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/premhage/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Memoization
