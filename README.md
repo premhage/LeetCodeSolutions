@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/premhage/LeetCodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/premhage/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/premhage/LeetCodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/premhage/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/premhage/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premhage/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/premhage/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
