@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/premhage/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/premhage/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/premhage/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premhage/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/premhage/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/premhage/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/premhage/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
