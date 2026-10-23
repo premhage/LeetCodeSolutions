@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/premhage/LeetCodeSolutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/premhage/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/premhage/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/premhage/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/premhage/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/premhage/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/premhage/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 ## Stack
