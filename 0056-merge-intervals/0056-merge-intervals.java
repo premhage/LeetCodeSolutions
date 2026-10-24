@@ -5,23 +5,23 @@ class Solution {
         if (intervals.length <= 1) return intervals;
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
-        List<int[]> result = new ArrayList<>();
+        List<int[]> res = new ArrayList<>();
 
-        int[] current = intervals[0];
+        int st  = intervals[0][0];
+        int end = intervals[0][1];
 
-        for (int i = 1; i < intervals.length; i++) {
-            int[] next = intervals[i];
-
-            if (current[1] >= next[0]) {
-                current[1] = Math.max(current[1], next[1]);
-            } else {
-                result.add(current);
-                current = next;
+        for(int[] i : intervals){
+            if(i[0] <= end){
+                end = Math.max(i[1],end);
+            }
+            else{
+                res.add(new int[]{st,end});
+                st = i[0];
+                end = i[1];
             }
         }
+        res.add(new int[]{st,end});
 
-        result.add(current);
-
-        return result.toArray(new int[result.size()][]);
+        return res.toArray(new int[0][]);
     }
 }
