@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/premhage/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/premhage/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/premhage/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/premhage/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/premhage/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/premhage/LeetCodeSolutions/tree/master/0860-lemonade-change) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/premhage/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Tournament Sort
 |  |
 | ------- |
