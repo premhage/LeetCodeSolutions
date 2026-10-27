@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/premhage/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/premhage/LeetCodeSolutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/premhage/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/premhage/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/premhage/LeetCodeSolutions/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/premhage/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
