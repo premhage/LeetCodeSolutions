@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/premhage/LeetCodeSolutions/tree/master/2235-add-two-integers) |
