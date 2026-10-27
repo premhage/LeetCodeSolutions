@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/premhage/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/premhage/LeetCodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/premhage/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premhage/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/premhage/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0507-perfect-number) |
@@ -402,4 +404,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/premhage/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/premhage/LeetCodeSolutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
