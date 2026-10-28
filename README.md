@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/premhage/LeetCodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/premhage/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/premhage/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/premhage/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/premhage/LeetCodeSolutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/premhage/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/premhage/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/premhage/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
