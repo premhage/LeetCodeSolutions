@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/premhage/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -443,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premhage/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
