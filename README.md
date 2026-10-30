@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/premhage/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/premhage/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/premhage/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/premhage/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/premhage/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/premhage/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/premhage/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/premhage/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/premhage/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/premhage/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/premhage/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/premhage/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/premhage/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/premhage/LeetCodeSolutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Tournament Sort
 |  |
@@ -458,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/premhage/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
