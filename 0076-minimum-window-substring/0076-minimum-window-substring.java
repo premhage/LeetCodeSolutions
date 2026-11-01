@@ -15,7 +15,6 @@ class Solution {
 
         int cnt = 0;
 
-        // Store frequency of characters in t
         for(int i = 0; i < m; i++){
             hash[t.charAt(i)]++;
         }
