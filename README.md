@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/premhage/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/premhage/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premhage/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/premhage/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/premhage/LeetCodeSolutions/tree/master/0135-candy) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/premhage/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/premhage/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/premhage/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/premhage/LeetCodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/premhage/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/premhage/LeetCodeSolutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/premhage/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
