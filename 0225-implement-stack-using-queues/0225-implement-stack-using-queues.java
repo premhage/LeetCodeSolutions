@@ -1,4 +1,3 @@
-
 class MyStack {
 
     Queue<Integer> q1;
