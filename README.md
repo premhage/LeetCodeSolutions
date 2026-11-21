@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/premhage/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/premhage/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/premhage/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/premhage/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
@@ -503,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/premhage/LeetCodeSolutions/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/premhage/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/premhage/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
